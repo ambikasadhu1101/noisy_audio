@@ -1,0 +1,1 @@
+Type specifies the category of audio file. SNR value is to be provided in the confirguration file.
